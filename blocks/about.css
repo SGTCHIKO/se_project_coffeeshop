@@ -21,7 +21,7 @@
 }
 
 .about__title {
-  padding: 100px 0 0 88px;
+  padding: 202px 0 0 80px;
   margin: 0;
   max-width: 251px;
   color: #ffffff;
@@ -34,7 +34,7 @@
 
 .about__content {
   max-width: 660px;
-  margin: 119px 88px 173px auto;
+  margin: 119px 80px 173px auto;
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
